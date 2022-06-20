@@ -1,0 +1,176 @@
+[
+    {
+        "1": "What is the name of your country",
+        "2": "What is the name of your president",
+        "3": "What is the name of your Prime minister",
+        "4": "How many universities are there in Ngaoundere",
+        "5": "Who is the govenor of Adamaoua region",
+        "6": "Head quarter of Adamaoua",
+        "7": "In which quarter are you",
+        "8": "Who is the lamido of Ngaoundere",
+        "9": "What is the name of your president",
+        "10": "How many regions of Cameroon",
+        "11": "First President of Cameroon",
+        "12": "Your complete names",
+        "13": "How old are you",
+        "14": "How many sisters do you have",
+        "15": "How many moms do you have",
+        "16": "How many dads do you have",
+        "17": "How many aunts do you have",
+        "18": "How many regions of Cameroon",
+        "19": "How old are you d",
+        "20": "In which town are you",
+        "21": "Who is the lamido of Ngaoundere"
+    },
+    {
+        "1": {
+            "a": "Cameroon",
+            "b": "Nigeria",
+            "c": "Canada",
+            "d": "Ivory"
+        },
+        "2": {
+            "a": "Ahidjo",
+            "b": "Awalou",
+            "c": "Paul Bia",
+            "d": "Him"
+        },
+        "3": {
+            "a": "here",
+            "b": "Nigeria",
+            "c": "Ngute",
+            "d": "Ivory"
+        },
+        "4": {
+            "a": "3",
+            "b": "2",
+            "c": "1",
+            "d": "4"
+        },
+        "5": {
+            "a": "Cameroon",
+            "b": "Kildadi",
+            "c": "Canada",
+            "d": "Ivory"
+        },
+        "6": {
+            "a": "Cameroon",
+            "b": "Ngaounder",
+            "c": "Canada",
+            "d": "Ivory"
+        },
+        "7": {
+            "a": "Cameroon",
+            "b": "Nigeria",
+            "c": "Canada",
+            "d": "Baladji 2"
+        },
+        "8": {
+            "a": "Hayatou",
+            "b": "Nigeria",
+            "c": "Canada",
+            "d": "Ivory"
+        },
+        "9": {
+            "a": "Cameroon",
+            "b": "Nigeria",
+            "c": "Paul Bia",
+            "d": "Ivory"
+        },
+        "10": {
+            "a": "Cameroon",
+            "b": "Nigeria",
+            "c": "10",
+            "d": "Ivory"
+        },
+        "11": {
+            "a": "Cameroon",
+            "b": "Nigeria",
+            "c": "Canada",
+            "d": "Ngute"
+        },
+        "12": {
+            "a": "Mouhamadou Awalou",
+            "b": "Nigeria",
+            "c": "Canada",
+            "d": "Ivory"
+        },
+        "13": {
+            "a": "Cameroon",
+            "b": "21",
+            "c": "Canada",
+            "d": "Ivory"
+        },
+        "14": {
+            "a": "Cameroon",
+            "b": "Nigeria",
+            "c": "3",
+            "d": "Ivory"
+        },
+        "15": {
+            "a": "Cameroon",
+            "b": "Nigeria",
+            "c": "1",
+            "d": "Ivory"
+        },
+        "16": {
+            "a": "Cameroon",
+            "b": "1",
+            "c": "Canada",
+            "d": "Ivory"
+        },
+        "17": {
+            "a": "Cameroon",
+            "b": "Nigeria",
+            "c": "infinitive",
+            "d": "Ivory"
+        },
+        "18": {
+            "a": "Cameroon",
+            "b": "Nigeria",
+            "c": "Canada",
+            "d": "10"
+        },
+        "19": {
+            "a": "Cameroon",
+            "b": "Nigeria",
+            "c": "21",
+            "d": "Ivory"
+        },
+        "20": {
+            "a": "Cameroon",
+            "b": "Ngaounder",
+            "c": "Canada",
+            "d": "Ivory"
+        },
+        "21": {
+            "a": "Cameroon",
+            "b": "Nigeria",
+            "c": "Hayatou",
+            "d": "Ivory"
+        }
+    },
+    {
+        "1": "Cameroon",
+        "2": "Paul Bia",
+        "3": "Ngute",
+        "4": "1",
+        "5": "Kildadi",
+        "6": "Ngaoundere",
+        "7": "Baladji 2",
+        "8": "Hayatou",
+        "9": "Paul Bia",
+        "10": "10",
+        "11": "Ngute",
+        "12": "Mouhamadou Awalou",
+        "13": "21",
+        "14": "3",
+        "15": "1",
+        "16": "1",
+        "17": "infinitive",
+        "18": "10",
+        "19": "21",
+        "20": "Ngaoundere",
+        "21": "Hayatou"
+    }
+]
